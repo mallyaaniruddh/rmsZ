@@ -27,7 +27,6 @@ The **Research Management System (RMS) Frontend** is built using **React + Vite*
   - **Planned:** Secure API calls with JWT headers.
 
 - **UI/UX Enhancements**
-  - **Tailwind CSS** for styling.
   - Fully **responsive design** (desktop & mobile).
   - **Future Plans:** Dark mode & better error handling.
 
@@ -41,7 +40,6 @@ The **Research Management System (RMS) Frontend** is built using **React + Vite*
 | **Vite**   | Fast build tool for development & production |
 | **React Router** | Handles navigation and routing |
 | **Axios**  | API request handling |
-| **Tailwind CSS** | UI styling & responsiveness |
 | **JWT** | Authentication mechanism |
 
 ---
